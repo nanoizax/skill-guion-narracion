@@ -14,15 +14,15 @@ Esta skill enseña la diferencia entre **escribir para el ojo y escribir para el
 
 ## El problema que resuelve
 
-Tienes una buena idea, una buena voz (humana o sintética) y el resultado suena mal. Casi nunca es la voz: **es el texto**. Frases largas, conectores en cadena («y… y… y…»), palabras que solo se escriben, un tono de vendedor que no pediste.
+Tienes una buena idea, una buena voz (humana o sintética) y el resultado suena mal. Casi nunca es la voz: **es el texto**. Frases largas, conectores en cadena ("y… y… y…"), palabras que solo se escriben, un tono de vendedor que no pediste.
 
-Un caso real: un video técnicamente impecable sonaba raro por dos cosas. Demasiadas frases empezaban con «Y», y la versión con voz más enérgica sonaba a **telemercadeo** en vez de a reflexión. Una voz perfecta no arregla un texto escrito para el ojo.
+Un caso real: un video técnicamente impecable sonaba raro por dos cosas. Demasiadas frases empezaban con "Y", y la versión con voz más enérgica sonaba a **telemercadeo** en vez de a reflexión. Una voz perfecta no arregla un texto escrito para el ojo.
 
 ## Para qué sirve
 
 - Escribir el **guion de un video o audio narrado** con el tono correcto desde la primera versión.
 - **Revisar** un guion que "suena raro" y saber exactamente qué quitar.
-- Detectar las **muletillas de anuncio y de texto de plantilla** («Descubre…», «Te invito a…», «¿Sabías que…?»).
+- Detectar las **muletillas de anuncio y de texto de plantilla** ("Descubre…", "Te invito a…", "¿Sabías que…?").
 - Decidir el **registro** según el formato: reflexión, terror, noticias, podcast.
 - Escribir directamente en el **idioma de destino**, como lo diría un hablante nativo, en vez de traducir.
 
@@ -47,18 +47,18 @@ Cada herramienta guarda sus skills en un sitio distinto; consulta la documentaci
 
 ## Ejemplo
 
-**Antes:** «Y si sientes que tu vida está en desorden, ¡esto es para ti! Y recuerda: tú puedes con todo.»
+**Antes:** "Y si sientes que tu vida está en desorden, ¡esto es para ti! Y recuerda: tú puedes con todo."
 
-**Con la skill:** «A veces la vida se siente en desorden. No es que tú estés mal. Hay días en que todo está fuera de su sitio.»
+**Con la skill:** "A veces la vida se siente en desorden. No es que tú estés mal. Hay días en que todo está fuera de su sitio."
 
-Sin «Y» en cadena, sin exclamaciones, sin «esto es para ti», con frases que respiran: el mismo mensaje, dicho por alguien que acompaña y no por alguien que vende.
+Sin "Y" en cadena, sin exclamaciones, sin "esto es para ti", con frases que respiran: el mismo mensaje, dicho por alguien que acompaña y no por alguien que vende.
 
 ## Qué incluye la skill
 
 - Cómo **escribir para el oído**: una idea por frase, frases de 6 a 14 palabras, leer en voz alta con cronómetro.
 - **Idioma nativo, nunca traducido.**
 - Los **vicios que delatan al texto escrito** (y cómo eliminarlos).
-- Una **tabla de tono** por formato y las señales del «telemercadeo».
+- Una **tabla de tono** por formato y las señales del "telemercadeo".
 - La **estructura** gancho → cuerpo → cierre.
 - Cómo **citar** y cómo decir una referencia en voz alta.
 - Una **checklist de revisión** de un minuto y consejos para la voz sintética o clonada.
